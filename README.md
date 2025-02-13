@@ -1,2 +1,2 @@
 # triangulenes12
-All the csv files containing the S1, T1 and STGs for all the 12 triangular molecules with different methods with cc-pVDZ, cc-pVTZ, aug-cc-pVDZ and aug-cc-pVTZ basis sets are given.
+This repository contains CSV files with S$_1$, T$_1$, and S$_1$-T$_1$ energies for all 12 triangular molecules calculated with different methods with `cc-pVDZ`, `cc-pVTZ`, `aug-cc-pVDZ` and `aug-cc-pVTZ` basis sets.
