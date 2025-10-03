@@ -3,7 +3,7 @@ This repository is a part of the supplementary information of the study
 
 _Leveraging the Bias-Variance Tradeoff in Quantum Chemistry for Accurate Negative Singlet-Triplet Gap Predictions: A Case for Double-Hybrid DFT_   
 Atreyee Majumdar, Raghunathan Ramakrishnan    
-[Journal of Computational Chemistry  46 (2025) e70228.]([https://arxiv.org/abs/2502.09330](https://doi.org/10.1002/jcc.70228))
+[Journal of Computational Chemistry  46 (2025) e70228.](https://doi.org/10.1002/jcc.70228)
 
 
 # content
